@@ -1,0 +1,14 @@
+[
+	{ "keys": ["ctrl+shift+v"], "command": "golang_build" },
+  { "keys": ["ctrl+shift+x"], "command": "golang_run" },
+	{
+      "button": "button1", 
+      "count": 1, 
+      "modifiers": ["ctrl+shift"],
+      "press_command": "drag_select",
+      "command": "goto_definition"
+  	},
+  	{ "keys": ["f4"], "command": "go_imports" },
+  	{ "keys": ["alt+z"], "command": "gotools_goto_def" },
+    { "keys": ["ctrl+shift+c"], "command": "save_all" },
+]
