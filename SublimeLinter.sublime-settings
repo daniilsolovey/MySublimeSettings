@@ -1,0 +1,8 @@
+// SublimeLinter Settings - User
+{
+	 "paths": {
+	         "executable": ["./go/bin/gometalinter"]                   
+	 
+	        
+	     }
+}

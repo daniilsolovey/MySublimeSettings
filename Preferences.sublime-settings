@@ -1,0 +1,23 @@
+{
+	"class": "tabset_control",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+	"font.size": 14,
+	"font_size": 15,
+	"goimports_bin_path": "/usr/local/bin/goimports",
+	"ignored_packages":
+	[
+		"SublimeLinter",
+		"SublimeLinter-contrib-gometalinter",
+		"SublimeLinter-golangcilint",
+		"Vintage",
+		"Vintageous"
+	],
+	"rulers":
+	[
+		80
+	],
+	"tab_height": 45,
+	"tab_min_width": 48,
+	"tab_width": 160,
+	"theme": "Default.sublime-theme"
+}

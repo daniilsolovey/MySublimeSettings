@@ -1,0 +1,10 @@
+*
+!.gitignore
+!*.txt
+!GoGuru.sublime-settings
+!SublimeLinter.sublime-settings
+!golang.sublime-settings
+!Gofmt.sublime-settings
+!Package Control.last-run
+!Package Control.sublime-settings
+!Preferences.sublime-settings

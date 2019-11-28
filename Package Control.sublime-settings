@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Color Highlighter",
+		"CSS Completions",
+		"Gofmt",
+		"GoGuru",
+		"Golang Build",
+		"Golang Tools Integration",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"HTMLBeautify",
+		"Package Control",
+		"PackageResourceViewer",
+		"SublimeLinter",
+		"SublimeLinter-contrib-gometalinter",
+		"SublimeLinter-golangcilint",
+		"TerminalView",
+		"Vintageous"
+	]
+}
